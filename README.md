@@ -1,4 +1,4 @@
-# Front-running Bancor
+# Bancor Ethereum API with Python
 
 
 ### Usage
